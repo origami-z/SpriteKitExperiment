@@ -19,6 +19,7 @@
 		6E6EA0F0277FC1F100176D14 /* SpriteKitExperimentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6EA0EF277FC1F100176D14 /* SpriteKitExperimentUITests.swift */; };
 		6E6EA0F2277FC1F100176D14 /* SpriteKitExperimentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6EA0F1277FC1F100176D14 /* SpriteKitExperimentUITestsLaunchTests.swift */; };
 		6E6EA0FF277FCE7700176D14 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6E6EA0FE277FCE7700176D14 /* Explosion.sks */; };
+		6E6EA101277FD57300176D14 /* Background.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 6E6EA100277FD57200176D14 /* Background.fsh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		6E6EA0EF277FC1F100176D14 /* SpriteKitExperimentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKitExperimentUITests.swift; sourceTree = "<group>"; };
 		6E6EA0F1277FC1F100176D14 /* SpriteKitExperimentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKitExperimentUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6E6EA0FE277FCE7700176D14 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
+		6E6EA100277FD57200176D14 /* Background.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = Background.fsh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				6E6EA0CD277FC1EE00176D14 /* GameScene.sks */,
 				6E6EA0CF277FC1EE00176D14 /* Actions.sks */,
 				6E6EA0D1277FC1EE00176D14 /* GameScene.swift */,
+				6E6EA100277FD57200176D14 /* Background.fsh */,
 				6E6EA0FE277FCE7700176D14 /* Explosion.sks */,
 				6E6EA0D3277FC1EE00176D14 /* GameViewController.swift */,
 				6E6EA0D5277FC1EE00176D14 /* Main.storyboard */,
@@ -241,6 +244,7 @@
 				6E6EA0D7277FC1EE00176D14 /* Main.storyboard in Resources */,
 				6E6EA0CE277FC1EE00176D14 /* GameScene.sks in Resources */,
 				6E6EA0D9277FC1F000176D14 /* Assets.xcassets in Resources */,
+				6E6EA101277FD57300176D14 /* Background.fsh in Resources */,
 				6E6EA0DC277FC1F000176D14 /* LaunchScreen.storyboard in Resources */,
 				6E6EA0D0277FC1EE00176D14 /* Actions.sks in Resources */,
 				6E6EA0FF277FCE7700176D14 /* Explosion.sks in Resources */,
